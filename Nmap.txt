@@ -1,0 +1,6 @@
+Nmap:
+a. nmap [IP]
+b. nmap 162.168.1.100 //Jati dherai rakhyoo teti dherai time lagxa
+c. nmap -A [IP]
+d. nmap -O [IP]
+e. nmap -p- [IP]
